@@ -2,6 +2,8 @@
 
 This repository is a compendium of every public Task-Awareness library that has been developed by the STAR group at the Barcelona Supercomputing Center.
 
+Task-Aware libraries work both with the [OmpSs-2 Programming Model](https://github.com/bsc-pm/ompss-2-releases) and OpenMP through our implementation of the [OpenMP LLVM Library](https://github.com/bsc-pm/llvm).
+
 The currently available TA-X libraries are:
 
  * [Task-Aware MPI](https://github.com/bsc-pm/tampi): Library providing support for taskifying MPI communications
