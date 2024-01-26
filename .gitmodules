@@ -1,0 +1,18 @@
+[submodule "tampi"]
+	path = tampi
+	url = https://github.com/bsc-pm/tampi
+[submodule "tagaspi"]
+	path = tagaspi
+	url = https://github.com/bsc-pm/tagaspi
+[submodule "tacuda"]
+	path = tacuda
+	url = https://github.com/bsc-pm/tacuda
+[submodule "tahip"]
+	path = tahip
+	url = https://github.com/bsc-pm/tahip
+[submodule "tasycl"]
+	path = tasycl
+	url = https://github.com/bsc-pm/tasycl
+[submodule "tacl"]
+	path = tacl
+	url = https://github.com/bsc-pm/tacl
